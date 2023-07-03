@@ -53,7 +53,7 @@
             "orientation": "landscape",
 
             "game_name": "Revolution of Choo Choo",
-            "game_cover": "https://i.ytimg.com/vi/DOcorhLSqq4/maxresdefault.jpg",
+            "game_cover": "https://i.ibb.co/SvW8z9r/23.gif",
             "game_gif": "https://im4.ezgif.com/tmp/ezgif-4-9437172247.gif",
             "game_link": "https://yandex.com/games/app/144252#app-id=144252&catalog-session-uid=catalog-51c5f033-6eab-59fd-b11c-c073b51d10d4-1675562756674-fdf2&pos=%7B%22listType%22%3A%22suggested%22%2C%22tabCategory%22%3A%22search%22%7D",
 
@@ -171,11 +171,11 @@
             "active" : "true",
             "active_reward" : "false",
             "name" : "Guide",
-            "ico" : "https://9asso.github.io/published/imgs/btmore.png",
+            "ico" : "https://i.ibb.co/D1mhhb4/scartchbtn.png",
             "bg" : "#3F51B5"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "active_reward" : "false",
             "name" : "Food Delivery",
             "ico" : "https://storage.pixteller.com/designs/designs-videos/2090558-5fe0b83524270/thumb.gif",
@@ -185,56 +185,56 @@
             "active" : "true",
             "active_reward" : "false",
             "name" : "Spinner",
-            "ico" : "https://9asso.github.io/published/imgs/btspin.png",
+            "ico" : "https://i.ibb.co/YkmZXT6/output-onlinegiftools.gif",
             "bg" : "#ffffff"
         },
         {
             "active" : "true",
             "active_reward" : "false",
             "name" : "Quiz",
-            "ico" : "https://9asso.github.io/published/imgs/btimgs.png",
+            "ico" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/garten-of-banban-3-chapter-2-3-4/main/5.png",
             "bg" : "#ffffff"
         },
         {
             "active" : "false",
             "active_reward" : "false",
             "name" : "Puzzle",
-            "ico" : "https://9asso.github.io/published/imgs/btpuzzle.png",
+            "ico" : "https://i.ibb.co/qDZNwcZ/puzzul-1.png",
             "bg" : "#ffffff"
         },
         {
             "active" : "false",
             "active_reward" : "false",
             "name" : "Questions",
-            "ico" : "https://9asso.github.io/published/imgs/btquiz.png",
+            "ico" : "https://i.ibb.co/3Cm3cw0/btnquestion.png",
             "bg" : "#ffffff"
         },
         {
             "active" : "true",
             "active_reward" : "false",
             "name" : "Wallpapers",
-            "ico" : "https://9asso.github.io/published/imgs/btwalls.png",
+            "ico" : "https://i.ibb.co/hdt8Hct/btnwall.png",
             "bg" : "#ffffff"
         },
         {
             "active" : "true",
             "active_reward" : "false",
             "name" : "Scratch",
-            "ico" : "https://9asso.github.io/published/imgs/btscratch.png",
+            "ico" : "https://i.ibb.co/r4mhcrK/scartch.png",
             "bg" : "#ffffff"
         },
         {
             "active" : "false",
             "active_reward" : "false",
             "name" : "Games",
-            "ico" : "https://9asso.github.io/published/imgs/btgames.png",
+            "ico" : "https://i.ibb.co/m0zZ06V/gamebtn.png",
             "bg" : "#673AB7"
         },
         {
             "active" : "false",
             "active_reward" : "false",
             "name" : "More",
-            "ico" : "https://9asso.github.io/published/imgs/btmore.png",
+            "ico" : "https://i.ibb.co/D1mhhb4/scartchbtn.png",
             "bg" : "#3F51B5"
         }
     ],
