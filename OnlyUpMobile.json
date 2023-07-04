@@ -239,28 +239,34 @@
         }
     ],
 
-    "wallpapers" : [
-        { "name" : "", "img" : "https://assets-prd.ignimgs.com/2022/04/30/choochoocharles-1651280665421.jpg?width=300&crop=1%3A1%2Csmart" },
-        { "name" : "", "img" : "https://howtomarketagame.com/wp-content/uploads/2021/10/charles.jpg" },
-        { "name" : "", "img" : "https://cdn.cloudflare.steamstatic.com/steam/apps/1766740/ss_656dfa0b4bcf63fa5e4b58b9c08a246fcca7fa4a.1920x1080.jpg?t=1670596632" },
-        { "name" : "", "img" : "https://assets-prd.ignimgs.com/2022/10/11/choochoocharlesreleasedate-blog-1665505211360.jpg" },
-        { "name" : "", "img" : "https://img.game-news24.com/2022/12/The-train-that-could-have-a-horror-movie-about-the-nightmarish-train-Choo-Choo-Charles-upset-critics-but-ordinary-gamers-liked-the-movie.jpeg" },
-        { "name" : "", "img" : "https://assets-prd.ignimgs.com/2022/12/07/choo-choo-blog-1670428170370.jpg" },
-        { "name" : "", "img" : "https://i.ytimg.com/vi/ThTzq_luTMI/maxresdefault.jpg" },
-        { "name" : "", "img" : "https://www.pcinvasion.com/wp-content/uploads/2022/12/Choo-Choo-Charles-Hell-Charles-1.jpg" },
-        { "name" : "", "img" : "https://i.ytimg.com/vi/nJZo9VZe2Uo/maxresdefault.jpg" },
-        { "name" : "", "img" : "https://i.ytimg.com/vi/DOcorhLSqq4/maxresdefault.jpg" },
-        { "name" : "", "img" : "https://cdn.vox-cdn.com/thumbor/lJ7gMQCCcBE94Pv2En6OYe6vLgo=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/23614967/CCC_Front.png" },
-        { "name" : "", "img" : "https://www.fiz-x.com/wp-content/uploads/2022/10/CHOO-CHOO-CHARLES.jpg" },
-        { "name" : "", "img" : "https://media.sketchfab.com/models/dff1c7791bec429f9c0de08318bae5ed/thumbnails/84f791b5834244a092d87cf19ee37863/00898c357dc649c18d0574ff55bcfddc.jpeg" },
-        { "name" : "", "img" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c0af0a76f2d10c56b6e257a51d863380.jpg" },
-        { "name" : "", "img" : "https://i.ytimg.com/vi/d-VIuto5--w/maxresdefault.jpg" },
-        { "name" : "", "img" : "https://assets.reedpopcdn.com/-1633195811532.jpg/BROK/thumbnail/1200x900/quality/100/-1633195811532.jpg" },
-        { "name" : "", "img" : "https://i.ytimg.com/vi/1W1MYXltUPU/maxresdefault.jpg" },
-        { "name" : "", "img" : "https://i.ytimg.com/vi/eDDFhGKBMCQ/maxresdefault.jpg" },
-        { "name" : "", "img" : "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/6924887c8c041245c25d5cf69c6d1255.png" }
-    ],
-    
+   "wallpapers": [
+    { "name": "", "img": "https://i.ibb.co/SQ3Z8xy/24.jpg" },
+    { "name": "", "img": "https://i.ibb.co/tqGnW8D/25.jpg" },
+    { "name": "", "img": "https://i.ibb.co/1dL9Wgy/26.jpg" },
+    { "name": "", "img": "https://i.ibb.co/MNQ4HrZ/712f62365c6f4a08b53ac9dc9b07685e.jpg" },
+    { "name": "", "img": "https://i.ibb.co/fd644N2/2.jpg" },
+    { "name": "", "img": "https://i.ibb.co/ZJC3CYZ/4.jpg" },
+    { "name": "", "img": "https://i.ibb.co/HVmN0hz/5.jpg" },
+    { "name": "", "img": "https://i.ibb.co/c3dZGJP/6.jpg" },
+    { "name": "", "img": "https://i.ibb.co/FgLMwkV/7.jpg" },
+    { "name": "", "img": "https://i.ibb.co/4Mc46fk/8.jpg" },
+    { "name": "", "img": "https://i.ibb.co/CWr3cbF/9.jpg" },
+    { "name": "", "img": "https://i.ibb.co/Y7wgfmT/10.jpg" },
+    { "name": "", "img": "https://i.ibb.co/s6CXB3m/11.jpg" },
+    { "name": "", "img": "https://i.ibb.co/dchdMSX/12.jpg" },
+    { "name": "", "img": "https://i.ibb.co/N3C0fdN/13.jpg" },
+    { "name": "", "img": "https://i.ibb.co/WxHJYXr/14.jpg" },
+    { "name": "", "img": "https://i.ibb.co/cCV9KW5/15.jpg" },
+    { "name": "", "img": "https://i.ibb.co/cw2SSBY/16.jpg" },
+    { "name": "", "img": "https://i.ibb.co/FBLPz2J/17.jpg" },
+    { "name": "", "img": "https://i.ibb.co/hXDkHm6/18.jpg" },
+    { "name": "", "img": "https://i.ibb.co/Z6j51ZG/19.jpg" },
+    { "name": "", "img": "https://i.ibb.co/517VGzB/20.jpg" },
+    { "name": "", "img": "https://i.ibb.co/RQq8mwm/21.jpg" },
+    { "name": "", "img": "https://i.ibb.co/8757f4J/22.jpg" },
+    { "name": "", "img": "https://i.ibb.co/Y7WK69B/23.jpg" }
+  ],
+
     "games" : [
         {
             "name" : "only up! 3d parkour",
