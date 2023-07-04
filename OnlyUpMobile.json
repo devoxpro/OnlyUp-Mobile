@@ -55,7 +55,7 @@
             "game_name": "Only Up! 3d Parkour ",
             "game_cover": "https://i.ibb.co/6NL47DH/only-up-pc-spil-steam-cover.jpg",
             "game_gif": "https://im4.ezgif.com/tmp/ezgif-4-9437172247.gif",
-            "game_link": "https://yandex.com/games/app/144252#app-id=144252&catalog-session-uid=catalog-51c5f033-6eab-59fd-b11c-c073b51d10d4-1675562756674-fdf2&pos=%7B%22listType%22%3A%22suggested%22%2C%22tabCategory%22%3A%22search%22%7D",
+            "game_link": "https://html5.gamedistribution.com/cb6ef4e519594dda80934b30f2baaff9/?gd_sdk_referrer_url=https%3A%2F%2Fwww.y8.com%2Fgames%2Fparkour_block_2&key=y8&value=default",
 
             "update_app_activate": "false",
             "update_app_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia",
@@ -269,15 +269,15 @@
             "cat" : "Overall",
             "orientation" : "1"
         },{
-            "name" : "Cat Condo",
-            "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
-            "link" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=671&original_ref=https%3A%2F%2Fhtml5games.com%2F",
-            "cat" : "Strategies",
+            "name" : "parkour game city",
+            "ico" : "https://i.ibb.co/jvNHnPX/cityparkour.png",
+            "link" : "https://yandex.com/games/app/173741#menu",
+            "cat" : "action",
             "orientation" : "0"
         },{
             "name" : "Power Up: Superhero Challenge",
-            "ico" : "https://play-lh.googleusercontent.com/4aznLu_MRegrmlOd1mzHLH2fnkj6t0QCYYzneNOUZAQlA423xk5twIdymBk1I19EYg=s150-rw",
-            "link" : "https://games.cdn.famobi.com/html5games/f/fuzzies/v130/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=664712c7-d01a-494a-bddf-4ea78f48e5bb&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=669&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "ico" : "https://i.ibb.co/X87G0cx/ah-Vzfm1hcmtld-Gpz-LWVud-GVyc-HJpc2-Vy-EQs-SBEdhb-WUYg-ICg95ef6wo-M.png",
+            "link" : "https://igroutka.ru/loader/game/45947/",
             "cat" : "Soccer",
             "orientation" : "1"
         },{
@@ -293,9 +293,9 @@
             "cat" : "Puzzles",
             "orientation" : "0"
         },{
-            "name" : "Cat Condo",
-            "ico" : "https://play-lh.googleusercontent.com/MxjwN1rZMFqrM5VJbJVJHOdOIKcAXMgbFJZG1RmD1TgWTouOZ7tqwo30zonDulgqiA6y=s300-rw",
-            "link" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=671&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "name" : "Parkour Race ",
+            "ico" : "https://i.ibb.co/52b5HyC/image.png",
+            "link" : "https://m.igroutka.ru/ni3/137/ParkourSuperheroGameCityNinjaRobotStreetFi/",
             "cat" : "Hypercasual",
             "orientation" : "1"
         },{
