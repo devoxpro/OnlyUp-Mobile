@@ -8,7 +8,7 @@
             "rate_comment": true,
             
             "update_app" : false,
-            "activate_ads" : true,
+            "activate_ads" : false,
             "activate_banner" : "on",
             "activate_inter" : "on",
             
@@ -60,7 +60,7 @@
             "update_app_activate": "false",
             "update_app_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia",
             
-            "show_notfication":true,
+            "show_notfication":false,
             "Counter": "90000",
             "notification_title": "check our new game",
             "notification_text": "woow super mario is here try it now"
@@ -168,7 +168,7 @@
 
     "menu" : [
         {
-            "active" : "true",
+            "active" : "false",
             "active_reward" : "false",
             "name" : "Guide",
             "ico" : "https://i.ibb.co/D1mhhb4/scartchbtn.png",
@@ -224,7 +224,7 @@
             "bg" : "#ffffff"
         },
         {
-            "active" : "false",
+            "active" : "true",
             "active_reward" : "false",
             "name" : "Games",
             "ico" : "https://i.ibb.co/m0zZ06V/gamebtn.png",
