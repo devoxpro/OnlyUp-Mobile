@@ -315,28 +315,135 @@
         { "img" : "https://assets.reedpopcdn.com/-1633195811532.jpg/BROK/resize/1200x1200%3E/format/jpg/quality/70/-1633195811532.jpg" }
     ],
 
-    "quizquestions" : [
-        {
-            "questions" :
-            [
-                { "question" : "q1" },
-                { "question" : "q2" },
-                { "question" : "q3" }
-            ],
-            "answers" :
-            [
-                { "answer" : "a1" },
-                { "answer" : "a2" },
-                { "answer" : "a3" }
-            ],
-            "options" :
-            [
-                { "option" : "a1" }, { "option" : "ax" }, { "option" : "ac" }, { "option" : "ad" },
-                { "option" : "iu" }, { "option" : "a2" }, { "option" : "po" }, { "option" : "gh" },
-                { "option" : "kp" }, { "option" : "lk" }, { "option" : "km" }, { "option" : "a3" }
-            ]
-        }
+   "quizquestions": [
+  {
+    "questions": [
+      {
+        "question": "Who is considered the founder of modern parkour?"
+      },
+      {
+        "question": "What is the main objective of parkour as a sport?"
+      },
+      {
+        "question": "Which city is often associated with the origins of parkour?"
+      },
+      {
+        "question": "What is the term used for the practice of moving between two points in a straight line?"
+      },
+      {
+        "question": "What is the name for a parkour technique where a person rolls forward to absorb impact?"
+      },
+      {
+        "question": "Which of the following is NOT a fundamental movement in parkour?"
+      },
+      {
+        "question": "What is the term for a series of connected parkour movements or actions?"
+      },
+      {
+        "question": "What does the term "
+      },
+      {
+        "question": "What type of shoes are commonly preferred by parkour practitioners?"
+      },
+      {
+        "question": "What is the importance of safety and risk management in parkour?"
+      }
     ],
+    "answers": [
+      {
+        "answer": "David Belle"
+      },
+      {
+        "answer": "To navigate obstacles efficiently and creatively"
+      },
+      {
+        "answer": "Lisses, France"
+      },
+      {
+        "answer": "Straight-line or point A to point B movement"
+      },
+      {
+        "answer": "Roll or Parkour Roll"
+      },
+      {
+        "answer": "Swimming"
+      },
+      {
+        "answer": "Parkour line or flowline"
+      },
+      {
+        "answer": "The seamless and fluid movement between parkour techniques"
+      },
+      {
+        "answer": "Lightweight, flexible, and grippy shoes"
+      },
+      {
+        "answer": "Safety and risk management are essential to ensure the well-being of practitioners and minimize injuries"
+      }
+    ],
+    "options": [
+      {
+        "option": "Sebastien Foucan"
+      },
+      {
+        "option": "David Belle"
+      },
+      {
+        "option": "Yamakasi"
+      },
+      {
+        "option": "To navigate obstacles efficiently and creatively"
+      },
+      {
+        "option": "To perform acrobatic stunts"
+      },
+      {
+        "option": "Paris, France"
+      },
+      {
+        "option": "Lisses, France"
+      },
+      {
+        "option": "Straight-line or point A to point B movement"
+      },
+      {
+        "option": "Freerun or Freerunning"
+      },
+      {
+        "option": "Vault or Barani"
+      },
+      {
+        "option": "Roll or Parkour Roll"
+      },
+      {
+        "option": "Jump or Precision Jump"
+      },
+      {
+        "option": "Climb or Cat Leap"
+      },
+      {
+        "option": "Swimming"
+      },
+      {
+        "option": "Parkour line or flowline"
+      },
+      {
+        "option": "Parkour combo or trickline"
+      },
+      {
+        "option": "The efficient use of time and energy"
+      },
+      {
+        "option": "The seamless and fluid movement between parkour techniques"
+      },
+      {
+        "option": "Durable and heavy boots"
+      },
+      {
+        "option": "Lightweight, flexible, and grippy shoes"
+     }
+		]
+	}],
 
     "quizimages" : [
         {
