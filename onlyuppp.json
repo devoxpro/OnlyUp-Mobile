@@ -7,10 +7,10 @@
         
             "rate_comment": true,
             
-            "update_app" : false,
+            "update_app" : true,
             "activate_ads" : true,
-            "activate_banner" : "off",
-            "activate_inter" : "off",
+            "activate_banner" : "on",
+            "activate_inter" : "on",
             
             "network" : "admob",
 
