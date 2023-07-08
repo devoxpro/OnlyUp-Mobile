@@ -225,7 +225,7 @@
             "bg" : "#ffffff"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "active_reward" : "false",
             "name" : "Games",
             "ico" : "https://i.ibb.co/m0zZ06V/gamebtn.png",
