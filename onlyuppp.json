@@ -60,7 +60,7 @@
             "update_app_activate": "false",
             "update_app_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia",
             
-            "show_notfication":true,
+            "show_notfication":false,
             "Counter": "360000",
             "notification_title": "check our new game",
             "notification_text": "woow PARKOUR game is here try it now",
@@ -272,10 +272,10 @@
             "cat" : "Overall",
             "orientation" : "1"
 
-        },{
-            "name" : "Flip Runner",
-            "ico" : "https://i.postimg.cc/0297m7zB/512x384.jpg",
-            "link" : "https://html5.gamemonetize.co/ykvatcphs443zsorrfpd640l10h7t1rw/",
+          },{
+            "name" : "parkour run 3d",
+            "ico" : "https://i.postimg.cc/PxygchTH/Parkour-Run-3-D-IO-512x340.jpg",
+            "link" : "https://yandex.com/games/app/173741#menu",
             "cat" : "Strategies",
             "orientation" : "1"
        },{
@@ -291,9 +291,9 @@
             "cat" : "Arcade",
             "orientation" : "0"
       },{
-            "name" : "Stacky Bird: Fun Egg Dash Game",
-            "ico" : "https://i.ibb.co/LtQpgNk/36ce2ce7e109489380e5c1a2f841e061-512x512.jpg",
-            "link" : "https://html5.gamedistribution.com/rvvASMiM/36ce2ce7e109489380e5c1a2f841e061/index.html?timestamp=1688468825&countryCode=en&siteLocale=en&locale=en&gd_sdk_referrer_url=https%3A%2F%2Fkizi.com%2Fgames%2Fdirt-bike-extreme-parkour&gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL2tpemkuY29tL2dhbWVzL2RpcnQtYmlrZS1leHRyZW1lLXBhcmtvdXIiLCJwYXJlbnREb21haW4iOiJraXppLmNvbSIsInRvcERvbWFpbiI6ImtpemkuY29tIiwiaGFzSW1wcmVzc2lvbiI6ZmFsc2UsImxvYWRlckVuYWJsZWQiOnRydWUsImhvc3QiOiJodG1sNS5nYW1lZGlzdHJpYnV0aW9uLmNvbSIsInZlcnNpb24iOiIxLjUuMTYifQ%253D%253D",
+            "name" : "Parkour Window Jump Guy",
+            "ico" : "https://i.postimg.cc/tg16gdBn/36ce2ce7e109489380e5c1a2f841e061-512x512.jpg",
+            "link" : "https://yandex.com/games/app/205809?utm_source=similar_games",
             "cat" : "action",
             "orientation" : "0"
         },{
