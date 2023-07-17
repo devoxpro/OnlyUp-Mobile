@@ -5,7 +5,7 @@
             "Great game! It's really a good game Only Up: Parkour 3D 😍","woow this is the best 👍", "ohh i really like this game 👏", "thanks for this game i love it In the nxt uptade add the foot step sounds to make more Realstic "
         ],   
         
-            "rate_comment": false,
+            "rate_comment": true,
             
             "update_app" : false,
             "activate_ads" : false,
@@ -60,11 +60,11 @@
             "update_app_activate": "false",
             "update_app_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia",
             
-            "show_notfication":false,
+            "show_notfication":true,
             "Counter": "360000",
             "notification_title": "check our new game",
             "notification_text": "woow PARKOUR game is here try it now",
-            "showrate" : false
+            "showrate" : true
 
         
             
